@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galamai.Extensions.Context", "src\Galamai.Extensions.Context\Galamai.Extensions.Context.csproj", "{107F7EF3-18EF-4748-B947-3441452EF1EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3EB68DBD-090A-48EB-85F7-0CC8EE6DA5E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{280EBC58-FEBC-43F8-866C-5C05CDC1924B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galamai.Extensions.Context.Tests", "tests\Galamai.Extensions.Context.Tests\Galamai.Extensions.Context.Tests.csproj", "{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107F7EF3-18EF-4748-B947-3441452EF1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107F7EF3-18EF-4748-B947-3441452EF1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107F7EF3-18EF-4748-B947-3441452EF1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107F7EF3-18EF-4748-B947-3441452EF1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{107F7EF3-18EF-4748-B947-3441452EF1EE} = {3EB68DBD-090A-48EB-85F7-0CC8EE6DA5E9}
+		{29615CF0-0B27-4E1A-8A4E-139A2ED58A10} = {280EBC58-FEBC-43F8-866C-5C05CDC1924B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7E53EB-E5FF-4039-8F37-92C081491F62}
+	EndGlobalSection
+EndGlobal
