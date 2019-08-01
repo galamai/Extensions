@@ -9,7 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3EB68DBD-090
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{280EBC58-FEBC-43F8-866C-5C05CDC1924B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galamai.Extensions.Context.Tests", "tests\Galamai.Extensions.Context.Tests\Galamai.Extensions.Context.Tests.csproj", "{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galamai.Extensions.Context.Tests", "tests\Galamai.Extensions.Context.Tests\Galamai.Extensions.Context.Tests.csproj", "{29615CF0-0B27-4E1A-8A4E-139A2ED58A10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wiki", "wiki", "{2D5170A1-22DB-45CA-8D8F-8E1C41107064}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

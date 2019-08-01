@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ievgen Galamai</Authors>
+    <Description>Simple async context manager</Description>
+    <PackageProjectUrl>https://github.com/galamai/Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/galamai/Extensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
